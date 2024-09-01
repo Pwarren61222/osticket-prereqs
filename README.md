@@ -22,11 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Install PHP Manager for IIS 
+- Install the Rewrite Module
+- Download PHP 7.3.8,and unzip the contents into C:\PHP
+- Download and install VC_redist.x86.exe
+- Download and install MySQL 5.5.62 
 
 <h2>Installation Steps</h2>
 
