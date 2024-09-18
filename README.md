@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://imgur.com/cApPmN6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this step, Os-Ticket is fully downloaded and tickets can now be created and assigned to different users, it will display the different departments that are present, as well as the communication between the differnt users who work on the every ticket. 
+In this step, Os-Ticket is fully downloaded and tickets can now be created and assigned to different users. We observed the different departments that are present, as well as the communication between the differnt users who work on the same tickets. 
 </p>
 <br />
 
@@ -46,6 +46,6 @@ In this step we downloaded and installed os-Ticket from the installation file fo
 <img src="https://imgur.com/WacitiC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this step, we downloaded and instlled MySQL sever instance configuration. Which is intalling a database on the computer which will be used by Os-Ticket for database purposes.
+In this step, we downloaded and instlled MySQL Sever Instance Configuration. Which is intalling a database on the computer which will be used by Os-Ticket for database purposes.
 </p>
 <br />
